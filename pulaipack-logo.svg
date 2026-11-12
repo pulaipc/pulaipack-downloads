@@ -30,7 +30,7 @@
 
   <text x="294" y="115" fill="#f5f1e6" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="600" letter-spacing=".2">pulai</text>
   <text x="458" y="115" fill="#ffbf00" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" letter-spacing="-1.7">pack</text>
-  <text x="535" y="137" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing=".3">
+  <text x="535" y="129" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing=".3">
     <tspan fill="#aaa592" font-weight="500">by </tspan><tspan fill="#f5f1e6" font-weight="700" letter-spacing="1">PULAI</tspan><tspan fill="#ffbf00" font-weight="800" letter-spacing=".3"> PC</tspan>
   </text>
 </svg>
