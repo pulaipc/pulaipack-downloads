@@ -1,5 +1,7 @@
 # pulaipack
 
+<p align="center"><img src="pulaipack-logo.svg" alt="pulaipack by PULAI PC" width="720"></p>
+
 Public release assets for the pulaipack AIO-Switch-Updater custom pack.
 AIO downloads the latest release from:
 
