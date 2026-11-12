@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 210" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="45 42 570 122" role="img" aria-labelledby="title desc">
   <title id="title">pulaipack by PULAI PC</title>
   <desc id="desc">Gold handheld console with a firmware boot screen beside the pulaipack wordmark.</desc>
-  <rect width="860" height="210" rx="22" fill="#11110e"/>
+  <rect x="45" y="42" width="570" height="122" rx="16" fill="#11110e"/>
 
   <g transform="translate(62 67)">
     <rect width="180" height="76" rx="9" fill="#ffbf00"/>
